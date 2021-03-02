@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Sunny, Data Scientist from <img src="https://img.icons8.com/emoji/48/000000/india-emoji.png" width="15/> <b>India</b>
 
-<br>
+<hr>
 
 <h3> I have technical experience and interest in -</h3> 
 <ul> 

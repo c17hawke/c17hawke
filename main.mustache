@@ -3,19 +3,21 @@
 
 <p>Welcome to my page! </br> I'm Sunny, Data Scientist from <img src="https://img.icons8.com/emoji/48/000000/india-emoji.png" width="15/> <b>India</b>
 
+<br>
+
 <h3> I have technical experience and interest in -</h3> 
 <ul> 
-<li> Computer vision </li>
-<li> Natural Language Processing </li> 
-<li> Embedded systems </li>
-<li> Robotics </li>
+    <li> Computer vision </li>
+    <li> Natural Language Processing </li> 
+    <li> Embedded systems </li>
+    <li> Robotics </li>
 </ul>
 
 <h3> My Hobbies and interests -</h3>
 <ul> 
-<li> Photogarphy </li>
-<li> Calligraphy </li>
-<li> Sketching </li>
+    <li> Photogarphy </li>
+    <li> Calligraphy </li>
+    <li> Sketching </li>
 <ul>
 
 <hr>

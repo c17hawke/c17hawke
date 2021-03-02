@@ -13,6 +13,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 */
 let DATA = {
   name: 'Sunny',
+  user: 'c17hawke',
   date: new Date().toLocaleDateString('en-US', {
     weekday: 'long',
     month: 'long',

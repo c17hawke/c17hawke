@@ -1,24 +1,16 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+### I have technical experience and interest in -
+* Computer vision 
+* Natural Language Processing 
+* Embedded systems 
+* Robotics
 
-<p>Welcome to my page! </br> I'm Sunny, Data Scientist from <img src="https://img.icons8.com/emoji/48/000000/india-emoji.png" width="15/> <b>India</b>
+### My Hobbies and interests -
+* Photogarphy
+* Calligraphy
+* Sketching
 
-<hr>
-
-<h3> I have technical experience and interest in -</h3> 
-<ul> 
-    <li> Computer vision </li>
-    <li> Natural Language Processing </li> 
-    <li> Embedded systems </li>
-    <li> Robotics </li>
-</ul>
-
-<h3> My Hobbies and interests -</h3>
-<ul> 
-    <li> Photogarphy </li>
-    <li> Calligraphy </li>
-    <li> Sketching </li>
-<ul>
 
 <hr>
 

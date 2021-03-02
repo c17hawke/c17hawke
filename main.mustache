@@ -31,7 +31,7 @@
 [<img align="left" alt="c17hawke | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="c17hawke | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 [<img align="left" alt="c17hawke | Pexels" width="80px" src="http://images.pexels.com/lib/api/pexels.png" />][Pexels]
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpslwovwuvay020983whzhg" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="https://www.youtube.com/channel/ucpslwovwuvay020983whzhg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpslwovwuvay020983whzhg" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="https://www.youtube.com/channel/ucpslwovwuvay020983whzhg" height="40" width="40" /></a>
 
 <br>
 

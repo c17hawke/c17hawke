@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+You can also connect or follow me on- 
+
 [<img align="left" alt="c17hawke | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="c17hawke | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="c17hawke | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]

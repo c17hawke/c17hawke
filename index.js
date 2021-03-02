@@ -39,4 +39,23 @@ function generateReadMe() {
     fs.writeFileSync('README.md', output);
   });
 }
-generateReadMe();
+async function action() {
+
+    /**
+     * Get pictures
+     */
+    await setInstagramPosts();
+  
+    /**
+     * Generate README
+     */
+    await generateReadMe();
+  
+    /**
+     * Fermeture de la boutique 👋
+     */
+    await puppeteerService.close();
+  }
+  
+  action();
+  

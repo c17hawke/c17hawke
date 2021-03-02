@@ -27,12 +27,9 @@
 
 #### You can also find me on- 
 
-<!-- <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpslwovwuvay020983whzhg" target="blank"><img align="center" src="" alt="" height="30" width="30" /></a>
- -->
-
-[<img align="left" alt="c17hawke | LinkedIn" width="35px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="c17hawke | Twitter" width="35px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="c17hawke | Instagram" width="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="c17hawke | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="c17hawke | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 [<img align="left" alt="c17hawke | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
 [<img align="left" alt="c17hawke | Pexels" width="80px" src="http://images.pexels.com/lib/api/pexels.png" />][Pexels]
 
@@ -45,6 +42,7 @@
 [Instagram]: https://www.instagram.com/c17hawke
 [Pexels]: https://www.pexels.com/@c17hawke
 [YouTube]: https://www.youtube.com/channel/ucpslwovwuvay020983whzhg
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c17hawke&label=Profile%20views&color=0e75b6&style=flat" alt="c17hawke" /> </p>

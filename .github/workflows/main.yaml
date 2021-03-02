@@ -3,6 +3,7 @@ name: README build
 on:
   push:
     branches:
+      - main
       - exp
   schedule:
     - cron: '0 */6 * * *'

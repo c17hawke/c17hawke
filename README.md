@@ -41,7 +41,7 @@
 [twitter]: https://www.twitter.com/c17hawke
 [Instagram]: https://www.instagram.com/c17hawke
 [Pexels]: https://www.pexels.com/@c17hawke
-[YouTube]: https://www.youtube.com/channel/ucpslwovwuvay020983whzhg
+[YouTube]: https://www.youtube.com/c17hawke
 
 
 

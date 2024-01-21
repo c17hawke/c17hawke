@@ -5,7 +5,7 @@
 ### I have technical experience and interest in -
 * Computer vision 
 * Natural Language Processing 
-* Embedded systems 
+* Generative AI
 * Robotics
 
 ### Follow me on YouTube: 

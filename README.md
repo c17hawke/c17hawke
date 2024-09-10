@@ -9,8 +9,10 @@
 - **Robotics** 🤖🔧: Merging software and hardware to build intelligent machines.
 - **MLOps** ⚙️📈: Applying DevOps principles to machine learning to streamline model development and deployment.
 
-### Follow me on YouTube: 
-<img width=20% src="https://user-images.githubusercontent.com/34603575/174398690-e1faedc7-89c2-44cf-8bda-a0c74a4e042c.png"></img>
+### Follow me on YouTube (click on the following logo): 
+<a href="https://www.youtube.com/c17hawke">
+  <img width=20% src="./images/yt-logo.png"></img>
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>

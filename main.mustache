@@ -53,15 +53,7 @@
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 </p>
 
-### 💼 Work Experience
-
-| Period | Role | Company |
-|---|---|---|
-| Nov 2022 – Present | Data Scientist \| AI Engineer | Enterprise Minds India Pvt. Ltd. |
-| Jul 2020 – Oct 2022 | Sr. Data Scientist | iNeuron Intelligence |
-| Jan 2019 – Oct 2019 | Consultant | Simplilearn |
-
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Tech Stack | Highlights |
 |---|---|---|

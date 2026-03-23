@@ -1,11 +1,22 @@
+<table>
+<tr>
+<td width="40%">
+<img src="./images/julientromeur-town-473.gif" width="100%"/>
+</td>
+<td>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Sunny</h1>
-<h3 align="center">Sr. Data Scientist | AI Engineer</h3>
-<p align="center">
-  An AI researcher with an artistic touch 🎨 &nbsp;·&nbsp; 6+ years building production-ready AI<br>
-  M.Tech (Embedded Systems), MNIT Jaipur &nbsp;·&nbsp; 🏢 Currently @ <strong>Enterprise Minds</strong><br>
-  Technical Lead &nbsp;·&nbsp; Mentored 8+ engineers &nbsp;·&nbsp; Domains: Healthcare · Finance · Security · Compliance
-</p>
+<h1>I'm Sunny</h1>
+<h3>Sr. Data Scientist | AI Engineer</h3>
+<ul>
+  <li>An AI researcher with an artistic touch 🎨</li>
+  <li>6+ years building production-ready AI</li>
+  <li>M.Tech (Embedded Systems), MNIT Jaipur</li>
+  <li>🏢 Currently @ <strong>Enterprise Minds</strong></li>
+  <li>Technical Lead · Mentored 8+ engineers · Domains: Healthcare · Finance · Security · Compliance</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ### I'm a passionate technologist with a focus on:
 - **Computer Vision** 🖼️: Exploring innovative ways to interpret and analyze visual data.

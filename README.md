@@ -88,11 +88,6 @@
 | [Beautiful Documentation with Material for MkDocs](https://www.youtube.com/c17hawke) | YouTube Video | Jun 2022 |
 | [MLOps Community Event](https://www.youtube.com/c17hawke) | YouTube Playlist | Apr 2021 |
 
-### 🎓 Education
-
-- **M.Tech — Embedded Systems** · Malaviya National Institute of Technology (MNIT), Jaipur *(2016–2018)*
-- **B.Tech — Electronics & Communication Engineering** · Madan Mohan Malaviya University of Technology, Gorakhpur *(2009–2013)*
-
 ### In addition to my technical pursuits, I enjoy:
 - **Photography** 📸: Capturing moments and telling stories through images.
 - **Calligraphy** ✍️: Crafting beautiful lettering and enhancing my artistic skills.
@@ -100,23 +95,15 @@
 
 #### You can also find me on- 
 
-[<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="c17hawke | X" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="c17hawke | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="c17hawke | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="c17hawke | Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />][Medium]
-[<img align="left" alt="c17hawke | Pexels" width="80px" src="http://images.pexels.com/lib/api/pexels.png" />][Pexels]
-
-<br>
+<p align="left">
+<a href="https://www.linkedin.com/in/c17hawke" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="30" height="30"/></a>
+<a href="https://www.x.com/c17hawke" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="x" width="30" height="30"/></a>
+<a href="https://www.youtube.com/c17hawke" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="youtube" width="30" height="30"/></a>
+<a href="https://medium.com/@c17hawke" target="_blank"><img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="medium" width="30" height="30"/></a>
+<a href="https://www.pexels.com/@c17hawke" target="_blank"><img src="http://images.pexels.com/lib/api/pexels.png" alt="pexels" width="80" height="30"/></a>
+</p>
 
 <hr>
-
-[linkedin]: https://www.linkedin.com/in/c17hawke
-[twitter]: https://www.x.com/c17hawke
-[Instagram]: https://www.instagram.com/c17hawke
-[Pexels]: https://www.pexels.com/@c17hawke
-[YouTube]: https://www.youtube.com/c17hawke
-[Medium]: https://medium.com/@c17hawke
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c17hawke&label=Profile%20views&color=0e75b6&style=flat" alt="c17hawke" /> </p>

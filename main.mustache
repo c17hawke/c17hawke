@@ -109,9 +109,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c17hawke&label=Profile%20views&color=0e75b6&style=flat" alt="c17hawke" /> </p>
 
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c17hawke&theme=radical"/>
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c17hawke&theme=radical"/>
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c17hawke&theme=radical"/>
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c17hawke&theme=radical&utcOffset=5.5"/>
-  <img height="158em" src="https://nirzak-streak-stats.vercel.app?user=c17hawke&theme=radical"/>
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c17hawke&theme=apprentice"/>
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c17hawke&theme=apprentice"/>
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c17hawke&theme=apprentice"/>
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c17hawke&theme=apprentice&utcOffset=5.5"/>
+  <img height="158em" src="https://nirzak-streak-stats.vercel.app?user=c17hawke&theme=apprentice"/>
 </div>

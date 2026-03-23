@@ -51,6 +51,21 @@
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" alt="langgraph" width="40" height="40"/></a>
+<a href="https://openai.com/" target="_blank"><img src="https://cdn.simpleicons.org/openai/412991" alt="openai" width="40" height="40"/></a>
+<a href="https://groq.com/" target="_blank"><img src="https://cdn.simpleicons.org/groq/F55036" alt="groq" width="40" height="40"/></a>
+<a href="https://gemini.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="googlegemini" width="40" height="40"/></a>
+<a href="https://milvus.io/" target="_blank"><img src="https://cdn.simpleicons.org/milvus/00A1EA" alt="milvus" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" alt="github" width="40" height="40"/></a>
+<a href="https://gitlab.com/" target="_blank"><img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="gitlab" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"><img src="https://cdn.simpleicons.org/azuredevops/0078D7" alt="azure-devops" width="40" height="40"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
+<a href="https://pypi.org/" target="_blank"><img src="https://cdn.simpleicons.org/pypi/3775A9" alt="pypi" width="40" height="40"/></a>
+<a href="https://pytest.org/" target="_blank"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="pytest" width="40" height="40"/></a>
+<a href="https://squidfunk.github.io/mkdocs-material/" target="_blank"><img src="https://cdn.simpleicons.org/materialformkdocs/526CFE" alt="mkdocs-material" width="40" height="40"/></a>
+<a href="https://www.anthropic.com/" target="_blank"><img src="https://cdn.simpleicons.org/anthropic/191919" alt="anthropic" width="40" height="40"/></a>
+<a href="https://github.com/features/copilot" target="_blank"><img src="https://cdn.simpleicons.org/githubcopilot/000000" alt="github-copilot" width="40" height="40"/></a>
+<a href="https://github.com/astral-sh/uv" target="_blank"><img src="https://cdn.simpleicons.org/uv/DE5FE9" alt="uv" width="40" height="40"/></a>
 </p>
 
 ###  Featured Projects

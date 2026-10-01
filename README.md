@@ -9,7 +9,7 @@
 <h3>Sr. Data Scientist | AI Engineer</h3>
 <ul>
   <li>An AI researcher with an artistic touch 🎨</li>
-  <li>6+ years building production-ready AI</li>
+  <li>~7 years building production-ready AI</li>
   <li>M.Tech (Embedded Systems), MNIT Jaipur</li>
   <li>🏢 Currently @ <strong>Enterprise Minds</strong></li>
   <li>Technical Lead · Mentored 8+ engineers · Domains: Healthcare · Finance · Security · Compliance</li>
